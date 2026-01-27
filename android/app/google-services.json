@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523512798361",
+    "project_id": "githubexplorer-66408",
+    "storage_bucket": "githubexplorer-66408.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523512798361:android:18475879aa06dc5cf9ec08",
+        "android_client_info": {
+          "package_name": "com.example.github_explorer_1o1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFNEFcRhEyblfvcUmVV7TJROeAE2x0fNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
