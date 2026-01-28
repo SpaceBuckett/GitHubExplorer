@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 | Search | Profile | Repos | Followers |
 | --- | --- | --- | --- |
-| ![Search](assets/screenshots/screenshot1.png) | ![Profile](assets/screenshots/screenshot2.png) | ![Repos](assets/screenshots/screenshot3.png) | ![Followers](assets/screenshots/screenshot4.png) |
+| ![Search](assets/screenshots/screenshot2.png) | ![Profile](assets/screenshots/screenshot3.png) | ![Repos](assets/screenshots/screenshot4.png) | ![Followers](assets/screenshots/screenshot1.png) |
